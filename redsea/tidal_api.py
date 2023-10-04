@@ -123,7 +123,7 @@ class TidalApi:
 
     def get_stream_url(self, track_id, quality):
 
-        return self._get('tracks/' + str(track_id) + '/playbackinfopostpaywall', {
+        return self._get('tracks/' + str(track_id) + '/playbackinfopostpaywall/v4', {
             'playbackmode': 'STREAM',
             'assetpresentation': 'FULL',
             'audioquality': quality[0],
