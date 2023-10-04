@@ -62,7 +62,7 @@ TOKEN = 'c7RLy4RJ3OCNeZki'      # MQA Token, unused
 
 # The mobile token which usually comes along with the authorization header
 # MOBILE_TOKEN = "WAU9gXp3tHhK4Nns"    # MQA Token
-MOBILE_TOKEN = "dN2N95wCyEBTllu4"  # Dolby Atmos AC-4 + MQA + FLAC + AAC
+MOBILE_TOKEN = "km8T1xS355y7dd3H"  # Dolby Atmos AC-4 + MQA + FLAC + AAC
 
 # The TV_TOKEN and the line below (TV_SECRET) are tied together, so un-/comment both.
 TV_TOKEN = "7m7Ap0JC9j1cOM3n"  # FireTV Dolby Atmos E-AC-3 + MQA
